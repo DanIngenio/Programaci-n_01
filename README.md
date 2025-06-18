@@ -27,6 +27,8 @@ Además, el juego incluye:
 ██╔═══╝ ██╔═══╝    ██║   
 ██║     ██║        ██║   
 ╚═╝     ╚═╝        ╚═╝
-```bash
-## 🛠️ Como usar
+
+## ▶️ ¿Cómo usar el juego?
+```text
 python main_ppt.py
+```bash
