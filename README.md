@@ -18,11 +18,10 @@ Además, el juego incluye:
 
 ---
 ## ▶️ ¿Cómo usar el juego?
-```text
-python main_ppt.py
 ```bash
-## 📷 Captura
+python main_ppt.py
 
+## 📷 Captura
 ```text
 ██████╗ ██████╗ ████████╗
 ██╔══██╗██╔══██╗╚══██╔══╝
