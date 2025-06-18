@@ -17,7 +17,10 @@ Además, el juego incluye:
 - Posibilidad de jugar múltiples rondas.
 
 ---
-
+## ▶️ ¿Cómo usar el juego?
+```text
+python main_ppt.py
+```bash
 ## 📷 Captura
 
 ```text
@@ -28,7 +31,5 @@ Además, el juego incluye:
 ██║     ██║        ██║   
 ╚═╝     ╚═╝        ╚═╝
 
-## ▶️ ¿Cómo usar el juego?
-```text
-python main_ppt.py
-```bash
+
+
