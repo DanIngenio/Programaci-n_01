@@ -1,5 +1,5 @@
 # 🪨 Piedra, 📄 Papel o ✂️ Tijera - Juego en Python
-Por: Daniel Ilbay 
+Por: Daniel Ilbay Yupa
 
 ¡Bienvenido/a al clásico juego de Piedra, Papel o Tijera hecho en Python para consola!  
 Este proyecto fue desarrollado como una práctica divertida de Lógica de programación con Python.
